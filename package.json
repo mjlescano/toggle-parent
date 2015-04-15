@@ -1,0 +1,27 @@
+{
+  "name": "toggle-parent",
+  "version": "0.1.0",
+  "description": "Toggle class on parent element.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dropdown",
+    "component",
+    "menu",
+    "class",
+    "toggle",
+    "parent"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mjlescano/toggle-parent.git"
+  },
+  "author": "Matías Lescano <matiasj.lescano@gmail.com> (http://github.com/mjlescano)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mjlescano/toggle-parent/issues"
+  },
+  "homepage": "https://github.com/mjlescano/toggle-parent"
+}

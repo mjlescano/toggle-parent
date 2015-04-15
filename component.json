@@ -1,0 +1,25 @@
+{
+  "name": "toggle-parent",
+  "description": "Toggle class on parent element.",
+  "version": "0.1.0",
+  "author": "Matías Lescano <matiasj.lescano@gmail.com>",
+  "keywords": [
+    "dropdown",
+    "component",
+    "menu",
+    "class",
+    "toggle",
+    "parent"
+  ],
+  "dependencies": {
+    "component/dom": "*"
+  },
+  "styles": [
+    "toggle-parent.css"
+  ],
+  "scripts": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "repository": "mjlescano/toggle-parent"
+}
