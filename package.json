@@ -6,6 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "dependencies": {
+    "component-dom": "1.0.7"
+  },
+  "browser": {
+    "dom": "component-dom"
+  },
   "keywords": [
     "dropdown",
     "component",
