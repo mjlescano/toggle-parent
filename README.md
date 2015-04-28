@@ -6,6 +6,12 @@
 
 ## Installation
 
+  With [npm](https://github.com/component/component):
+
+```
+$ npm install toggle-parent
+```
+
   With [component](https://github.com/component/component):
 
 ```

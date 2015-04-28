@@ -20,6 +20,6 @@
   "scripts": [
     "index.js"
   ],
-  "main": "index.js",
+  "main": "toggle-parent.js",
   "repository": "mjlescano/toggle-parent"
 }
