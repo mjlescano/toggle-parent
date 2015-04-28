@@ -1,7 +1,7 @@
 {
   "name": "toggle-parent",
   "description": "Toggle class on parent element.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Matías Lescano <matiasj.lescano@gmail.com>",
   "keywords": [
     "dropdown",
