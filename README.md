@@ -1,5 +1,7 @@
 # Toggle Parent
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mjlescano/toggle-parent.svg)](https://greenkeeper.io/)
+
   Simple component to toggle a class on parentNode of an element. When activated
   a backdrop element (`.toggle-parent-backdrop`) is added that will remove the
   class when clicked.
