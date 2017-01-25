@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "component-dom": "1.0.7"
+    "component-dom": "1.0.8"
   },
   "browser": {
     "dom": "component-dom"
